@@ -62,6 +62,7 @@ body {
 	text-align: center;
 }
 .left{
+	margin: 48px;
 	float: left;
 	width: 90%;
 	text-align: left;
